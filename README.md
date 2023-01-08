@@ -28,7 +28,7 @@ N/A
 
 ## Usage
 
-To view the report, [click this link](https://edithlinpy.github.io/console-finances/){:target="_blank" rel="noopener"} to open the web page in the browser, right click and select 'Inspect', select the 'Console' tab and you will see the report as below.
+To view the report, [click this link](https://edithlinpy.github.io/console-finances/) to open the web page in the browser, right click and select 'Inspect', then select the 'Console' tab and you will see the report as below.
 
 ![Financial Analysis Report](https://github.com/edithlinpy/console-finances/blob/main/images/output.jpg?raw=true)
 
